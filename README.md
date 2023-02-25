@@ -1,2 +1,5 @@
 # ESProgrammer
-A simple USB prgoramming interface for ESP8266/ESP32
+A simple USB programming interface for ESP8266/ESP32 with TagConnect and auto reset/GP0
+
+![What is this](./doc/esprogrammer_photo.jpg)
+
